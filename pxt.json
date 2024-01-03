@@ -1,0 +1,52 @@
+{
+    "name": "204第一組-那些被遺忘的00碎片-正式版",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sprite-scaling": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.46",
+        "tag": "v1.12.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e66fb08db35df2249cd64300195259c64d497106",
+        "target": "1.12.46",
+        "pxt": "8.5.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#ACCCE4",
+        "#FFF7A0",
+        "#7A2222",
+        "#6CADEB",
+        "#A4A4A4",
+        "#F8F858",
+        "#87F2FF",
+        "#612431",
+        "#DEA38B",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#121212"
+    ]
+}
